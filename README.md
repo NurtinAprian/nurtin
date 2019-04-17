@@ -1,0 +1,2 @@
+# nurtin
+Bot untuk pemula
